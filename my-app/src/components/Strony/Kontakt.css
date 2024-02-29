@@ -1,0 +1,128 @@
+.main {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+/* #105d37; zielony */
+
+.main iframe {
+  width: 100%;
+  height: 500px;
+  border-radius: 1px;
+  box-shadow: 3px -3px 20px #727272;
+}
+
+@media screen and (max-width: 1200px) {
+  .main iframe {
+    width: 100%;
+  }
+}
+
+.sk h3 {
+  margin: 25px;
+  color: rgb(105, 105, 105);
+  font-size: 16px;
+  text-align: center;
+} 
+
+.hhh2 a {
+  text-decoration-color: #105d37;
+}
+
+.hhh3 a {
+  text-decoration-color: #105d37;
+}
+
+.icotype1 h2 {
+  color: rgb(31, 31, 31);
+}
+
+.icotype1 h3 {
+  color: rgb(105, 105, 105);
+  font-weight: 300;
+}
+
+.ikona1 {
+  position: absolute;
+  width: 50px;
+  top: 80%;
+  left: 10%;
+}
+
+.hhh1 {
+  margin: 15px;
+  position: absolute;
+  width: 300px;
+  top: 75%;
+  left: 15%;
+}
+
+@media screen and (max-width: 1200px) {
+  .hhh1 {
+    left: 30%;
+    width: 100%;
+  }
+}
+
+.icotype2 h2 {
+  color: rgb(31, 31, 31);
+}
+
+.icotype2 h3 {
+  color: rgb(105, 105, 105);
+  font-weight: 300;
+}
+
+.ikona2 {
+  position: absolute;
+  width: 50px;
+  top: 100%;
+  left: 10%;
+}
+
+.hhh2 {
+  margin: 15px;
+  position: absolute;
+  width: 300px;
+  top: 95%;
+  left: 15%;
+}
+
+@media screen and (max-width: 1200px) {
+  .hhh2 {
+    left: 30%;
+    width: 100%;
+  }
+}
+
+.icotype3 h2 {
+  color: rgb(31, 31, 31);
+}
+
+.icotype3 h3 {
+  color: rgb(105, 105, 105);
+  font-weight: 300;
+}
+
+.ikona3 {
+  position: absolute;
+  width: 50px;
+  top: 120%;
+  left: 10%;
+}
+
+.hhh3 {
+  margin: 15px;
+  position: absolute;
+  width: 300px;
+  top: 115%;
+  left: 15%;
+}
+
+@media screen and (max-width: 1200px) {
+  .hhh3 {
+    left: 30%;
+    width: 100%;
+  }
+}

@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  src: url('https://fonts.googleapis.com/css?family=Poppins');
+  
+  
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+html {
+  /* background-color: #0e6cc4; */
+  font-family: 'Poppins';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  
+}

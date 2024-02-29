@@ -1,0 +1,31 @@
+.p {
+ /*  border-radius: 20px; */
+  background: #fdfcf9;
+  box-shadow: 3px -3px 20px #727272;
+  height: 400px;
+  width: 400px;
+  float: left;
+  text-align: center;
+  margin-top: 20px;
+  border: transparent;
+  transition: transform cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
+
+  
+}
+
+@media (max-width: 1200px) {
+  .p {
+    height: 100%;
+    width: 100%;
+    
+  }
+}
+
+.p:hover{
+  outline: 2px solid #105d37;
+  transform: scale(1.05);
+}
+
+
+
+

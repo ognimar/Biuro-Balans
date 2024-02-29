@@ -1,0 +1,18 @@
+.cont{
+    margin: 0;
+    background: #105d37;
+    /* border-radius: 20px; */
+    height: 120px;
+    width: 400px;
+    text-align: center ;
+    padding: 15px;
+  }
+  
+
+  @media (max-width: 1200px) {
+    .cont {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  
